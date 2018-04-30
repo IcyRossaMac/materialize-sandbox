@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdd16374-39f2-4a33-ab33-bebb5a8375e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/2_5_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/2_5_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_6_collections.html" beforeDir="false" afterPath="$PROJECT_DIR$/2_6_collections.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="2_6_collections.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_6_collections.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="254" column="35" selection-start-line="254" selection-start-column="35" selection-end-line="254" selection-end-column="35" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -34,6 +48,7 @@
         <option value="$PROJECT_DIR$/2_3_buttons_icons.html" />
         <option value="$PROJECT_DIR$/2_4_floating.html" />
         <option value="$PROJECT_DIR$/2_5_navbar.html" />
+        <option value="$PROJECT_DIR$/2_6_collections.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -114,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.navbar">
+  <component name="RunManager" selected="JavaScript Debug.collections">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -138,6 +153,7 @@
       <patterns />
     </configuration>
     <configuration name="buttons" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_3_buttons_icons.html" />
+    <configuration name="collections" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_6_collections.html" />
     <configuration name="colors" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_2_colors.html" />
     <configuration name="floating" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_4_floating.html" />
     <configuration name="navbar" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_5_navbar.html" />
@@ -180,6 +196,7 @@
       <method />
     </configuration>
     <list>
+      <item itemvalue="JavaScript Debug.collections" />
       <item itemvalue="JavaScript Debug.buttons" />
       <item itemvalue="JavaScript Debug.floating" />
       <item itemvalue="JavaScript Debug.navbar" />
@@ -197,12 +214,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525101685500</updated>
-      <workItem from="1525101689460" duration="5639000" />
+      <workItem from="1525101689460" duration="6973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5639000" />
+    <option name="totallyTimeSpent" value="6973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -218,7 +235,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49919224" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49919224" weight="0.32965517" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
@@ -298,10 +315,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2_6_collections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="254" column="35" selection-start-line="254" selection-start-column="35" selection-end-line="254" selection-end-column="35" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
