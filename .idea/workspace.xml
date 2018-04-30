@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdd16374-39f2-4a33-ab33-bebb5a8375e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/2_6_collections.html" beforeDir="false" afterPath="$PROJECT_DIR$/2_6_collections.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_7_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/2_7_grid.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,25 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2_6_collections.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_6_collections.html">
+      <file leaf-file-name="2_7_grid.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_7_grid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="254" column="35" selection-start-line="254" selection-start-column="35" selection-end-line="254" selection-end-column="35" />
+            <state relative-caret-position="502">
+              <caret line="283" column="30" selection-start-line="283" selection-start-column="30" selection-end-line="283" selection-end-column="30" />
               <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -50,6 +41,7 @@
         <option value="$PROJECT_DIR$/2_5_navbar.html" />
         <option value="$PROJECT_DIR$/2_6_collections.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/2_7_grid.html" />
       </list>
     </option>
   </component>
@@ -129,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.collections">
+  <component name="RunManager" selected="JavaScript Debug.grid">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -156,6 +148,7 @@
     <configuration name="collections" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_6_collections.html" />
     <configuration name="colors" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_2_colors.html" />
     <configuration name="floating" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_4_floating.html" />
+    <configuration name="grid" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_7_grid.html" />
     <configuration name="navbar" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_5_navbar.html" />
     <configuration name="typo" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_1_typography.html" />
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -197,6 +190,7 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.collections" />
+      <item itemvalue="JavaScript Debug.grid" />
       <item itemvalue="JavaScript Debug.buttons" />
       <item itemvalue="JavaScript Debug.floating" />
       <item itemvalue="JavaScript Debug.navbar" />
@@ -214,12 +208,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525101685500</updated>
-      <workItem from="1525101689460" duration="6973000" />
+      <workItem from="1525101689460" duration="8273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6973000" />
+    <option name="totallyTimeSpent" value="8273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -315,9 +309,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2_6_collections.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
+        <state relative-caret-position="146">
           <caret line="254" column="35" selection-start-line="254" selection-start-column="35" selection-end-line="254" selection-end-column="35" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -327,10 +328,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/2_7_grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="502">
+          <caret line="283" column="30" selection-start-line="283" selection-start-column="30" selection-end-line="283" selection-end-column="30" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
