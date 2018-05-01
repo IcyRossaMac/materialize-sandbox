@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdd16374-39f2-4a33-ab33-bebb5a8375e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_1_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_1_cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_2_breadcrumbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_2_breadcrumbs.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,14 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3_1_cards.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_1_cards.html">
+      <file leaf-file-name="3_2_breadcrumbs.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_2_breadcrumbs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="376" column="46" selection-start-line="376" selection-start-column="46" selection-end-line="376" selection-end-column="46" />
+            <state relative-caret-position="588">
+              <caret line="165" column="46" selection-start-line="165" selection-start-column="37" selection-end-line="165" selection-end-column="46" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#5107#5113#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,6 +43,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/2_7_grid.html" />
         <option value="$PROJECT_DIR$/3_1_cards.html" />
+        <option value="$PROJECT_DIR$/3_2_breadcrumbs.html" />
       </list>
     </option>
   </component>
@@ -122,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.cards">
+  <component name="RunManager" selected="JavaScript Debug.breadcrumbs">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -145,6 +146,7 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="breadcrumbs" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_2_breadcrumbs.html" />
     <configuration name="buttons" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_3_buttons_icons.html" />
     <configuration name="cards" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_1_cards.html" />
     <configuration name="collections" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_6_collections.html" />
@@ -192,6 +194,7 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.cards" />
+      <item itemvalue="JavaScript Debug.breadcrumbs" />
       <item itemvalue="JavaScript Debug.collections" />
       <item itemvalue="JavaScript Debug.grid" />
       <item itemvalue="JavaScript Debug.buttons" />
@@ -212,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525101685500</updated>
       <workItem from="1525101689460" duration="8413000" />
-      <workItem from="1525199136433" duration="2853000" />
+      <workItem from="1525199136433" duration="3735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11266000" />
+    <option name="totallyTimeSpent" value="12148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -320,6 +323,18 @@
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_2_breadcrumbs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="165" column="46" selection-start-line="165" selection-start-column="37" selection-end-line="165" selection-end-column="46" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#5107#5113#0" expanded="true" />
           </folding>
         </state>
       </provider>
