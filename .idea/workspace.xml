@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdd16374-39f2-4a33-ab33-bebb5a8375e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/3_5_tables_media.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_5_tables_media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_6_chips_pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_6_chips_pagination.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3_5_tables_media.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_5_tables_media.html">
+      <file leaf-file-name="3_6_chips_pagination.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_6_chips_pagination.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="238" column="44" selection-start-line="238" selection-start-column="44" selection-end-line="238" selection-end-column="44" />
+            <state relative-caret-position="317">
+              <caret line="179" column="26" lean-forward="true" selection-start-line="179" selection-start-column="26" selection-end-line="179" selection-end-column="26" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -46,6 +46,7 @@
         <option value="$PROJECT_DIR$/3_3_forms.html" />
         <option value="$PROJECT_DIR$/3_4_forms_2.html" />
         <option value="$PROJECT_DIR$/3_5_tables_media.html" />
+        <option value="$PROJECT_DIR$/3_6_chips_pagination.html" />
       </list>
     </option>
   </component>
@@ -125,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.tables_media">
+  <component name="RunManager" selected="JavaScript Debug.chips-pag">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -151,6 +152,7 @@
     <configuration name="breadcrumbs" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_2_breadcrumbs.html" />
     <configuration name="buttons" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_3_buttons_icons.html" />
     <configuration name="cards" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_1_cards.html" />
+    <configuration name="chips-pag" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_6_chips_pagination.html" />
     <configuration name="collections" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_6_collections.html" />
     <configuration name="colors" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_2_colors.html" />
     <configuration name="floating" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_4_floating.html" />
@@ -201,6 +203,7 @@
       <item itemvalue="JavaScript Debug.forms" />
       <item itemvalue="JavaScript Debug.forms-2" />
       <item itemvalue="JavaScript Debug.tables_media" />
+      <item itemvalue="JavaScript Debug.chips-pag" />
       <item itemvalue="JavaScript Debug.cards" />
       <item itemvalue="JavaScript Debug.breadcrumbs" />
       <item itemvalue="JavaScript Debug.collections" />
@@ -223,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525101685500</updated>
       <workItem from="1525101689460" duration="8413000" />
-      <workItem from="1525199136433" duration="8966000" />
+      <workItem from="1525199136433" duration="10249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17379000" />
+    <option name="totallyTimeSpent" value="18662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -243,7 +246,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32965517" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -371,8 +374,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_5_tables_media.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
+        <state relative-caret-position="146">
           <caret line="238" column="44" selection-start-line="238" selection-start-column="44" selection-end-line="238" selection-end-column="44" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_6_chips_pagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="179" column="26" lean-forward="true" selection-start-line="179" selection-start-column="26" selection-end-line="179" selection-end-column="26" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
