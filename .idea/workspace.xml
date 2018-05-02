@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdd16374-39f2-4a33-ab33-bebb5a8375e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/4_1_carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/4_1_carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_2_collapsible.html" beforeDir="false" afterPath="$PROJECT_DIR$/4_2_collapsible.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="4_1_carousel.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4_1_carousel.html">
+      <file leaf-file-name="4_2_collapsible.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_2_collapsible.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="162" column="10" lean-forward="true" selection-start-line="146" selection-start-column="4" selection-end-line="162" selection-end-column="10" />
+            <state relative-caret-position="513">
+              <caret line="210" column="28" lean-forward="true" selection-start-line="210" selection-start-column="28" selection-end-line="210" selection-end-column="28" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -49,6 +49,7 @@
         <option value="$PROJECT_DIR$/3_6_chips_pagination.html" />
         <option value="$PROJECT_DIR$/3_7_preloaders.html" />
         <option value="$PROJECT_DIR$/4_1_carousel.html" />
+        <option value="$PROJECT_DIR$/4_2_collapsible.html" />
       </list>
     </option>
   </component>
@@ -128,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.carousel">
+  <component name="RunManager" selected="JavaScript Debug.collapsible">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -156,6 +157,7 @@
     <configuration name="cards" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_1_cards.html" />
     <configuration name="carousel" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/4_1_carousel.html" />
     <configuration name="chips-pag" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_6_chips_pagination.html" />
+    <configuration name="collapsible" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/4_2_collapsible.html" />
     <configuration name="collections" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_6_collections.html" />
     <configuration name="colors" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_2_colors.html" />
     <configuration name="floating" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_4_floating.html" />
@@ -210,6 +212,7 @@
       <item itemvalue="JavaScript Debug.chips-pag" />
       <item itemvalue="JavaScript Debug.preloaders" />
       <item itemvalue="JavaScript Debug.carousel" />
+      <item itemvalue="JavaScript Debug.collapsible" />
       <item itemvalue="JavaScript Debug.cards" />
       <item itemvalue="JavaScript Debug.breadcrumbs" />
       <item itemvalue="JavaScript Debug.collections" />
@@ -232,12 +235,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525101685500</updated>
       <workItem from="1525101689460" duration="8413000" />
-      <workItem from="1525199136433" duration="11871000" />
+      <workItem from="1525199136433" duration="12990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20284000" />
+    <option name="totallyTimeSpent" value="21403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -414,8 +417,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_1_carousel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="162" column="10" lean-forward="true" selection-start-line="146" selection-start-column="4" selection-end-line="162" selection-end-column="10" />
+        <state relative-caret-position="146">
+          <caret line="184" column="23" selection-start-line="184" selection-start-column="23" selection-end-line="184" selection-end-column="23" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_2_collapsible.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="210" column="28" lean-forward="true" selection-start-line="210" selection-start-column="28" selection-end-line="210" selection-end-column="28" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
