@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdd16374-39f2-4a33-ab33-bebb5a8375e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/5_2_sidenav.html" beforeDir="false" afterPath="$PROJECT_DIR$/5_2_sidenav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_3_pushpin.html" beforeDir="false" afterPath="$PROJECT_DIR$/5_3_pushpin.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,16 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="5_2_sidenav.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5_2_sidenav.html">
+      <file leaf-file-name="5_3_pushpin.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_3_pushpin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="198" column="41" selection-start-line="198" selection-start-column="41" selection-end-line="198" selection-end-column="41" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="389">
+              <caret line="105" column="16" lean-forward="true" selection-start-line="101" selection-start-column="13" selection-end-line="105" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -57,6 +52,7 @@
         <option value="$PROJECT_DIR$/4_6_modal.html" />
         <option value="$PROJECT_DIR$/5_1_parallax.html" />
         <option value="$PROJECT_DIR$/5_2_sidenav.html" />
+        <option value="$PROJECT_DIR$/5_3_pushpin.html" />
       </list>
     </option>
   </component>
@@ -136,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.sidenav">
+  <component name="RunManager" selected="JavaScript Debug.push-pin">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -178,6 +174,7 @@
     <configuration name="navbar" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_5_navbar.html" />
     <configuration name="parallax" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/5_1_parallax.html" />
     <configuration name="preloaders" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_7_preloaders.html" />
+    <configuration name="push-pin" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/5_3_pushpin.html" />
     <configuration name="sidenav" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/5_2_sidenav.html" />
     <configuration name="tables_media" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_5_tables_media.html" />
     <configuration name="typo" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_1_typography.html" />
@@ -232,6 +229,7 @@
       <item itemvalue="JavaScript Debug.modal" />
       <item itemvalue="JavaScript Debug.parallax" />
       <item itemvalue="JavaScript Debug.sidenav" />
+      <item itemvalue="JavaScript Debug.push-pin" />
       <item itemvalue="JavaScript Debug.cards" />
       <item itemvalue="JavaScript Debug.breadcrumbs" />
       <item itemvalue="JavaScript Debug.collections" />
@@ -255,12 +253,12 @@
       <updated>1525101685500</updated>
       <workItem from="1525101689460" duration="8413000" />
       <workItem from="1525199136433" duration="13978000" />
-      <workItem from="1525340547475" duration="3947000" />
+      <workItem from="1525340547475" duration="4724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26338000" />
+    <option name="totallyTimeSpent" value="27115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -486,6 +484,13 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_3_pushpin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="105" column="16" lean-forward="true" selection-start-line="101" selection-start-column="13" selection-end-line="105" selection-end-column="16" />
         </state>
       </provider>
     </entry>
