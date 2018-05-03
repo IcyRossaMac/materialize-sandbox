@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdd16374-39f2-4a33-ab33-bebb5a8375e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/4_5_material_box_slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/4_5_material_box_slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_6_modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/4_6_modal.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="4_5_material_box_slider.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4_5_material_box_slider.html">
+      <file leaf-file-name="4_6_modal.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_6_modal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
+            <state relative-caret-position="358">
+              <caret line="189" column="94" selection-start-line="189" selection-start-column="94" selection-end-line="189" selection-end-column="94" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -54,6 +54,7 @@
         <option value="$PROJECT_DIR$/4_3_feature_discovery.html" />
         <option value="$PROJECT_DIR$/4_4_dialogs.html" />
         <option value="$PROJECT_DIR$/4_5_material_box_slider.html" />
+        <option value="$PROJECT_DIR$/4_6_modal.html" />
       </list>
     </option>
   </component>
@@ -133,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.material-box-slider">
+  <component name="RunManager" selected="JavaScript Debug.modal">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -171,6 +172,7 @@
     <configuration name="forms" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_3_forms.html" />
     <configuration name="grid" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_7_grid.html" />
     <configuration name="material-box-slider" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/4_5_material_box_slider.html" />
+    <configuration name="modal" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/4_6_modal.html" />
     <configuration name="navbar" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/2_5_navbar.html" />
     <configuration name="preloaders" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_7_preloaders.html" />
     <configuration name="tables_media" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/materialize_sandbox/3_5_tables_media.html" />
@@ -223,6 +225,7 @@
       <item itemvalue="JavaScript Debug.feature-discovery" />
       <item itemvalue="JavaScript Debug.dialogs" />
       <item itemvalue="JavaScript Debug.material-box-slider" />
+      <item itemvalue="JavaScript Debug.modal" />
       <item itemvalue="JavaScript Debug.cards" />
       <item itemvalue="JavaScript Debug.breadcrumbs" />
       <item itemvalue="JavaScript Debug.collections" />
@@ -246,12 +249,12 @@
       <updated>1525101685500</updated>
       <workItem from="1525101689460" duration="8413000" />
       <workItem from="1525199136433" duration="13978000" />
-      <workItem from="1525340547475" duration="1851000" />
+      <workItem from="1525340547475" duration="2971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24242000" />
+    <option name="totallyTimeSpent" value="25362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -270,7 +273,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25767368" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -432,6 +435,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_6_modal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="189" column="94" selection-start-line="189" selection-start-column="94" selection-end-line="189" selection-end-column="94" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
